@@ -62,8 +62,8 @@
 									<img class="device-mockup is-revealing" src="dist/images/iphone-feature-01.png" alt="iPhone Feature 01">
 								</div>
 								<div class="feature-extended-body is-revealing">
-									<h3 class="mt-0 mb-16">Amazing features, coming soon.</h3>
-									<p class="m-0">Quam quisque id diam vel quam elementum pulvinar. Ut etiam sit amet nisl purus in mollis nunc. Odio morbi quis commodo odio aenean sed adipiscing diam donec.</p>
+									<h3 class="mt-0 mb-16">Amazing Map, coming soon.</h3>
+									<p class="m-0">Tung tung tung tung</p>
 								</div>
 							</div>
 							<div class="feature-extended">
@@ -74,8 +74,8 @@
 									<img class="device-mockup is-revealing" src="dist/images/iphone-feature-02.png" alt="iPhone Feature 02">
 								</div>
 								<div class="feature-extended-body is-revealing">
-									<h3 class="mt-0 mb-16">Amazing features, coming soon.</h3>
-									<p class="m-0">Quam quisque id diam vel quam elementum pulvinar. Ut etiam sit amet nisl purus in mollis nunc. Odio morbi quis commodo odio aenean sed adipiscing diam donec.</p>
+									<h3 class="mt-0 mb-16">Amazing Map, coming soon.</h3>
+									<p class="m-0">Tung tung tung tung</p>
 								</div>
 							</div>
 							<div class="feature-extended">
@@ -86,8 +86,8 @@
 									<img class="device-mockup is-revealing" src="dist/images/iphone-feature-03.png" alt="iPhone Feature 03">
 								</div>
 								<div class="feature-extended-body is-revealing">
-									<h3 class="mt-0 mb-16">Amazing features, coming soon.</h3>
-									<p class="m-0">Quam quisque id diam vel quam elementum pulvinar. Ut etiam sit amet nisl purus in mollis nunc. Odio morbi quis commodo odio aenean sed adipiscing diam donec.</p>
+									<h3 class="mt-0 mb-16">Amazing Map, coming soon.</h3>
+									<p class="m-0">Tung tung tung tung</p>
 								</div>
 							</div>
 							<div class="feature-extended">
@@ -98,8 +98,8 @@
 									<img class="device-mockup is-revealing" src="dist/images/iphone-feature-04.png" alt="iPhone Feature 04">
 								</div>
 								<div class="feature-extended-body is-revealing">
-									<h3 class="mt-0 mb-16">Amazing features, coming soon.</h3>
-									<p class="m-0">Quam quisque id diam vel quam elementum pulvinar. Ut etiam sit amet nisl purus in mollis nunc. Odio morbi quis commodo odio aenean sed adipiscing diam donec.</p>
+									<h3 class="mt-0 mb-16">Amazing Map, coming soon.</h3>
+									<p class="m-0">Tung tung tung tung</p>
 								</div>
 							</div>
 						</div>
@@ -117,8 +117,8 @@
 					<div class="container-sm">
 						<div class="cta-inner section-inner">
 							<div class="cta-header text-center">
-								<h2 class="section-title mt-0">Stay in the know</h2>
-								<p class="section-paragraph">Lorem ipsum is common placeholder text used to demonstrate the graphic elements of a document or visual presentation.</p>
+								<h2 class="section-title mt-0">Mau coba?</h2>
+								<p class="section-paragraph">Login dulu bos</p>
 								<div class="cta-cta">
 									<a class="button button-primary button-wide-mobile" href="/login">Login</a>
 								</div>
