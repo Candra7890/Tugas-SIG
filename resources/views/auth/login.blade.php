@@ -11,7 +11,7 @@
         <div class="row justify-content-center">
             <div class="col-md-6">
                 <div class="card mt-5">
-                    <div class="card-header">Login</div>
+                    <div class="card-header">Login  (usn : admin, email : admin@gmail.com, password : admin)</div>
                     <div class="card-body">
                         @if(session('error'))
                             <div class="alert alert-danger">{{ session('error') }}</div>
