@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\KoordinatController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\PointMapController;
+use App\Http\Controllers\RegisterController;
 
 // Rute untuk halaman publik
 Route::get('/', function () {
@@ -19,6 +20,9 @@ Route::middleware(['auth'])->group(function () {
 Route::get('/login', [AuthController::class, 'showLoginForm'])->name('login');
 Route::post('/login', [AuthController::class, 'login']);
 Route::get('/logout', [AuthController::class, 'logout']);
+
+Route::get('/register', [RegisterController::class, 'showRegistrationForm'])->name('register.show');
+Route::post('/register', [RegisterController::class, 'register'])->name('register');
 
 Route::get('koordinat/json', [PointMapController::class, 'getAll']);
 Route::post('koordinat/save', [PointMapController::class, 'store']);
