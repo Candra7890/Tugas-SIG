@@ -5,6 +5,7 @@ use App\Http\Controllers\KoordinatController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\PointMapController;
 use App\Http\Controllers\RegisterController;
+use App\Http\Controllers\ShapeController;
 
 // Rute untuk halaman publik
 Route::get('/', function () {
@@ -29,3 +30,12 @@ Route::post('koordinat/save', [PointMapController::class, 'store']);
 Route::post('koordinat/update', [PointMapController::class, 'update']);
 Route::post('koordinat/delete', [PointMapController::class, 'destroy']);
 Route::post('koordinat/update-details', [PointMapController::class, 'updateDetails']);
+
+Route::get('shape/json', [ShapeController::class, 'getShapesJson']);
+Route::get('shape/search', [ShapeController::class, 'search']);
+Route::get('shape/statistics', [ShapeController::class, 'getStatistics']);
+Route::get('shape/{id}', [ShapeController::class, 'show']);
+Route::post('shape/save', [ShapeController::class, 'store']);
+Route::post('shape/update-details', [ShapeController::class, 'updateDetails']);
+Route::post('shape/update-geometry', [ShapeController::class, 'updateGeometry']);
+Route::post('shape/delete', [ShapeController::class, 'destroy']);
