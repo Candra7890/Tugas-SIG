@@ -35,7 +35,11 @@
                     <div class="hero-inner">
 						<div class="hero-copy">
 	                        <h1 class="hero-title mt-0">Mapping CIS CIS CIS</h1>
-	                        <p class="hero-paragraph">Silahkan Login Untuk Melanjutkan</p>
+							<p class="hero-paragraph">Ingin mencoba Marker & Polygon? Login Disini!</p>
+	                        <div class="hero-cta">
+								<a class="button button-primary button-wide-mobile" href="/loginruasjalan">Login</a>
+							</div>
+	                        <p class="hero-paragraph">Ingin mencoba Ruas Jalan? Login Disini!</p>
 	                        <div class="hero-cta">
 								<a class="button button-primary button-wide-mobile" href="/login">Login</a>
 							</div>
@@ -119,9 +123,6 @@
 							<div class="cta-header text-center">
 								<h2 class="section-title mt-0">Mau coba?</h2>
 								<p class="section-paragraph">Login dulu bos</p>
-								<div class="cta-cta">
-									<a class="button button-primary button-wide-mobile" href="/login">Login</a>
-								</div>
 							</div>
 						</div>
 					</div>
