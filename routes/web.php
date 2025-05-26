@@ -24,7 +24,7 @@ Route::get('/logout', [AuthController::class, 'logout']);
 Route::get('/register', [RegisterController::class, 'showRegistrationForm'])->name('register.show');
 Route::post('/register', [RegisterController::class, 'register'])->name('register');
 
-Route::get('/loginruasjalan', [AuthController::class, 'showLoginruasjalan'])->name('loginruasjalan');
+Route::get('/loginakun', [AuthController::class, 'showLoginruasjalan'])->name('loginruasjalan');
 Route::post('/loginakun', [AuthController::class, 'loginruasjalan'])->name('loginruasjalan');
 Route::get('/registerruasjalan', [AuthController::class, 'showRegisterruasjalan'])->name('registerruasjalan');
 Route::post('/registerakun', [AuthController::class, 'registerruasjalan'])->name('registerakun');;
