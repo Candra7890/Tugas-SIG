@@ -37,11 +37,11 @@
 	                        <h1 class="hero-title mt-0">Mapping CIS CIS CIS</h1>
 							<p class="hero-paragraph">Ingin mencoba Marker & Polygon? Login Disini!</p>
 	                        <div class="hero-cta">
-								<a class="button button-primary button-wide-mobile" href="/loginruasjalan">Login</a>
+								<a class="button button-primary button-wide-mobile" href="/login">Login</a>
 							</div>
 	                        <p class="hero-paragraph">Ingin mencoba Ruas Jalan? Login Disini!</p>
 	                        <div class="hero-cta">
-								<a class="button button-primary button-wide-mobile" href="/login">Login</a>
+								<a class="button button-primary button-wide-mobile" href="/loginruasjalan">Login</a>
 							</div>
 						</div>
 						<div class="mockup-container">
