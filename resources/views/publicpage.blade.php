@@ -41,7 +41,7 @@
 							</div>
 	                        <p class="hero-paragraph">Ingin mencoba Ruas Jalan? Login Disini!</p>
 	                        <div class="hero-cta">
-								<a class="button button-primary button-wide-mobile" href="/loginruasjalan">Login</a>
+								<a class="button button-primary button-wide-mobile" href="/loginakun">Login</a>
 							</div>
 						</div>
 						<div class="mockup-container">
